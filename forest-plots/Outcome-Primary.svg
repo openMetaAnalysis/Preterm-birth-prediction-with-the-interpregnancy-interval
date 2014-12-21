@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><svg x="0" y="0" width="800px" height="425px" viewBox="0 0 800 425" style="font-family:Arial, Helvetica, sans-serif;color:black;opacity:1" fill="white" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?><svg x="0" y="0" width="800px" height="425px" viewBox="0 0 800 425" style="font-family:Arial, Helvetica, sans-serif;color:black;opacity:1" fill="white" opacity="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Header of plot-->
 <text x="10" y="15" fill="black" style="font-weight:bold">Study</text><text x="250" y="15" fill="black" style="font-weight:bold">Sensitivity (%)</text><text x="500" y="15" fill="black" style="font-weight:bold">Specificity (%)</text>
 <!-- Start of studies-->
