@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+<!-- start of a new study -->
+<study>
+<citation year="2006" pmid="16738268" trialregistration="" journal_abbrev="N Engl J Med">Stein</citation>
+ <design>Cohort</design>
+ <patient_selection total="__">
+ <description>adults suspected of having pulmonary embolism</description>
+ <bullet>Consecutive enrollment</bullet>
+ <bullet>Mean age __ months</bullet>
+ </patient_selection>
+ <index_test>computed tomographic pulmonary angiography
+ <bullet>Who interpreted?</bullet>
+ <bullet>Interpretation standardized?</bullet>
+ </index_test>
+ <reference_standard>conventional pulmonary angiography
+ <bullet type='primary'>Criteria or cutoffs used?</bullet>
+ <bullet type='secondary' >Who interpreted?</bullet>
+ <bullet type='secondary' url='http://pubmed.gov/delete_url_if_not_needed'>Interpretation standardized?</bullet>
+ </reference_standard>
+ <flow_timing>the index test preceded the reference test by ___ hours
+ <bullet>Other issues to note?</bullet>
+ </flow_timing>
+</study>
+<!-- Leave this bottom line -->
+</included>
