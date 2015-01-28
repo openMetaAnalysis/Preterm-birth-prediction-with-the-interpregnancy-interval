@@ -4,22 +4,20 @@
 <study>
 <citation year="2006" pmid="16738268" trialregistration="" journal_abbrev="N Engl J Med">Stein</citation>
  <design>Cohort</design>
- <patient_selection total="824">
- <description>adults suspected of having pulmonary embolism</description>
+ <patient_selection total="824">Adults suspected of having pulmonary embolism
  <bullet>Consecutive enrollment</bullet>
  <bullet>Mean age 51.7 years</bullet>
  </patient_selection>
- <index_test>computed tomographic pulmonary angiography
- <bullet>Who interpreted?  two certified readers in the PIOPED II trial who were from centers other than that at which the image was obtained</bullet>
- <bullet>Interpretation standardized? Yes </bullet>
+ <index_test>Computed tomographic pulmonary angiography
+ <bullet>4 though 16 rows of detectors</bullet>
+ <bullet>Interpreted by two independent radiologists who were from centers other than that at which the image was obtained</bullet>
+ <bullet>Positive readings required both radiologists to agree on a defect in at least one lobe</bullet>
  </index_test>
- <reference_standard>conventional pulmonary angiography
- <bullet type='primary'>Criteria or cutoffs used? </bullet>
- <bullet type='secondary' >Who interpreted?two certified readers in the PIOPED II trial who were from centers other than that at which the image was obtained</bullet>
- <bullet type='secondary' url='http://pubmed.gov/delete_url_if_not_needed'>Interpretation standardized? Yes </bullet>
+ <reference_standard>Conventional pulmonary angiography
+ <bullet>Interpreted by two independent radiologists who were from centers other than that at which the image was obtained</bullet>
+ <bullet>Positive readings required both radiologists to agree on a defect in at least one lobe</bullet>
  </reference_standard>
- <flow_timing>the index test preceded the reference test by 36 hours
- <bullet>Other issues to note?</bullet>
+ <flow_timing>The index test preceded the reference test by within 36 hours
  </flow_timing>
 </study>
 <!-- Leave this bottom line -->
