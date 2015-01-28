@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+<!-- start of a new study -->
+<study>
+<citation year="2006" pmid="16738268" nct="" journal_abbrev="N Engl J Med" totalsubjects="0" >Stein</citation>
+ <patient_selection explanation="Nonconsecutive patients">High risk</randomization>
+ <index_test> risk</allocation>
+ <reference_standard> risk</blinding_people>
+ <flow and timingt> risk</blinding_assessment>
+</study>
+<!-- Leave this bottom line -->
+</included>
