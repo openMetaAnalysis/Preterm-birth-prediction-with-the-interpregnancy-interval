@@ -3,8 +3,8 @@
 <!-- start of a new study -->
 <study>
 <citation year="2006" pmid="16738268" nct="" journal_abbrev="N Engl J Med" totalsubjects="0" >Stein</citation>
- <patient_selection explanation="Nonconsecutive patients">High risk</patient_selection>
- <index_test> risk</index_test>
+ <patient_selection>Low risk</patient_selection>
+ <index_test explanation="Nonconsecutive patients"> risk</index_test>
  <reference_standard> risk</reference_standard>
  <flow_timing> risk</flow_timing>
 </study>
