@@ -1,0 +1,8 @@
+Study,Year,PMID,TP,FP,FN,TN, Cofactor,
+Lanspa,      2012,23084132, 8, 10, 2, 14, SI>1,
+Michard,     2001,11534577, 13,12, 3, 12, SI>1,
+,,,,,,,,
+,,,,,,,To make forest plot:,
+,,,,,,,Click 'Raw' view of this file,
+,,,,,,,Copy rows of data without column names,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
