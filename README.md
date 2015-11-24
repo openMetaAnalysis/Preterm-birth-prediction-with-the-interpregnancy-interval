@@ -1,32 +1,48 @@
-**If you want to read this meta-analysis:**
+# Passive leg raising for predicting fluid-responsiveness
+A data-only living systematic review
 
-* Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
-* Or go to http://openmetaanalysis.github.io/
+**Clinical summary:** This meta-analysis suggests that clinical test  *is* effective in diagnosis.
 
-**If you want to comment on this meta-analysis:**
-* Contact a [contributor](../../network/members) if you need access
-* Open an [issue](../../issues/new)
+[Keep current with this topic](Keep-up.md)
 
-**If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
-* [Subscribe by email or RSS](Keep-up.md)
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
-**If you want to update this meta-analysis:**
+This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
-Text files:
-* [PICO table](../../tree/gh-pages/tables/pico.xml)
-* [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
-* [Data tables](../../tree/master/data)
-* [Clinical summary and references](../../tree/gh-pages/index.html)
+See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
-Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/) to upload these from your computer):
-* [Forest plots](../../tree/master/forest-plots/)
-* [GRADE Profiles](../../tree/master/GRADE-Profiles)
-* [Metaregression plots](../../tree/master/metaregression) (optional)
+**Results:** Details of the studies included are in the:
+* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
-[Methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) used by these reviews.
+The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-**Do you want to contribute:**
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Passive-leg-raising-for-predicting-fluid-responsiveness/master/forest-plots/Outcome-Primary.png "Principle results")
 
-* '[Fork](../../fork)' this repository
-* Make your edits
-* Initiate a '[Pull request](../../compare/)' for your changes to be merged.
+The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
+
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Passive-leg-raising-for-predicting-fluid-responsiveness/Outcome-Primary.png "Principle results - metaregression")
+
+References:
+----------------------------------
+### Systematic review(s)
+####Most recent review(s) at time of last revision of this repository
+1. Cavallaro F, Sandroni C, Marano C, La Torre G, Mannocci A, De Waure C, Bello G, Maviglia R, Antonelli M. Diagnostic accuracy of passive leg raising for prediction of fluid responsiveness in adults: systematic review and meta-analysis of clinical studies. Intensive Care Med. 2010 Sep;36(9):1475-83. doi: 10.1007/s00134-010-1929-y. PMID: [20502865](http://pubmed.gov/20502865)<br/>Search date: not stated<br/>Number of studies: 3
+
+### Diagnostic tests assessments
+#### New trial(s) *not* included in the most recent review above
+1. Duus N, Shogilev DJ, Skibsted S, Zijlstra HW, Fish E, Oren-Grinberg A, Lior Y, Novack V, Talmor D, Kirkegaard H, Shapiro NI. The reliability and validity of passive leg raise and fluid bolus to assess fluid responsiveness in spontaneously breathing emergency department patients. J Crit Care. 2015 Feb;30(1):217.e1-5. doi: 10.1016/j.jcrc.2014.07.031. PMID: [25262530](http://pubmed.gov/25262530).
+2. Tong H, Hu C, Hao X, Cai G, Rao Q, Yan M, Chen J, Yan J. [The prediction value of noninvasive bioreactance-based passive leg raising test in assessing fluid responsiveness in elderly patients with sepsis]. Zhonghua Nei Ke Za Zhi. 2015 Feb;54(2):130-3. Chinese. PMID: [25907844](http://pubmed.gov/25907844).
+3. Marik PE, Levitov A, Young A, Andrews L. The use of bioreactance and carotid Doppler to determine volume responsiveness and blood flow redistribution following passive leg raising in hemodynamically unstable patients. Chest. 2013 Feb 1;143(2):364-70. PMID: [22910834](http://pubmed.gov/22910834).
+4. Monge García MI, Gil Cano A, Gracia Romero M, Monterroso Pintado R, Pérez Madueño V, Díaz Monrové JC. Non-invasive assessment of fluid responsiveness by changes in partial end-tidal CO2 pressure during a passive leg-raising maneuver.  Ann Intensive Care. 2012 Mar 26;2:9. doi: 10.1186/2110-5820-2-9. PMID: [22449292](http://pubmed.gov/22449292); PubMed Central PMCID: PMC3327636.
+5. Benomar B, Ouattara A, Estagnasie P, Brusset A, Squara P. Fluid responsiveness predicted by noninvasive bioreactance-based passive leg raise test. Intensive Care Med. 2010 Nov;36(11):1875-81. doi: 10.1007/s00134-010-1990-6. PMID: [20665001](http://pubmed.gov/20665001).
+
+#### New study(s) undergoing review
+None
+
+#### New study(s) *excluded* 
+None
+
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
+
