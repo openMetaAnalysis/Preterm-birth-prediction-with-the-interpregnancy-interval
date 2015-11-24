@@ -18,10 +18,6 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Passive-leg-raising-for-predicting-fluid-responsiveness/master/forest-plots/Outcome-Primary.png "Principle results")
 
-The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
-
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Passive-leg-raising-for-predicting-fluid-responsiveness/Outcome-Primary.png "Principle results - metaregression")
-
 References:
 ----------------------------------
 ### Systematic review(s)
