@@ -1,4 +1,4 @@
-# Passive leg raising for predicting fluid-responsiveness
+# Fluid responsiveness assessed noninvasively
 A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that all clinical tests *are* are more accurate than chance in diagnosis.
