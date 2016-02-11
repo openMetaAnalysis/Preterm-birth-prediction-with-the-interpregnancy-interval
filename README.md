@@ -29,6 +29,7 @@ References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
+1. Cherpanath TG, Hirsch A, Geerts BF, Lagrand WK, Leeflang MM, Schultz MJ, Groeneveld AB. Predicting Fluid Responsiveness by Passive Leg Raising: A Systematic Review and Meta-Analysis of 23 Clinical Trials. Crit Care Med. 2016 Jan 6. PMID: [26741579](http://pubmed.gov/26741579)
 1. Cavallaro F, Sandroni C, Marano C, La Torre G, Mannocci A, De Waure C, Bello G, Maviglia R, Antonelli M. Diagnostic accuracy of passive leg raising for prediction of fluid responsiveness in adults: systematic review and meta-analysis of clinical studies. Intensive Care Med. 2010 Sep;36(9):1475-83. doi: 10.1007/s00134-010-1929-y. PMID: [20502865](http://pubmed.gov/20502865)<br/>Search date: not stated<br/>Number of studies: 3
 
 ### Diagnostic tests assessments
