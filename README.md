@@ -3,6 +3,12 @@ A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that all clinical tests *are* are more accurate than chance in diagnosis.
 
+Method	| Sensitiity|Specificity| Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
+| -------------------------- |:--:|:---:|:--------------------:|:-------:|
+Bioreactance	               | 80 | 79 | 79 | 80
+Proportional pulse pressure  | 62 | 50 | 81 | 40
+Shock indes	                 | 81 | 54 | 64 | 26
+
 [Keep current with this topic](Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
