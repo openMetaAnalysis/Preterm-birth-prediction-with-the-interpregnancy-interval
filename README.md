@@ -1,7 +1,7 @@
 # Fluid responsiveness assessed noninvasively
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that all clinical tests *are* are more accurate than chance in diagnosis.
+**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis.
 
 Method	| Sensitiity|Specificity| Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:--:|:--:|
