@@ -7,7 +7,7 @@ Method	| Sensitiity|Specificity| Positive predictive value</br>(at prevalence of
 | -------------------------- |:--:|:--:|:--:|:--:|
 Bioreactance	               | 80 | 79 | 79 | 80
 Proportional pulse pressure  | 62 | 50 | 81 | 40
-Shock indes	                 | 81 | 54 | 64 | 26
+Shock index	                 | 81 | 54 | 64 | 26
 
 [Keep current with this topic](Keep-up.md)
 
