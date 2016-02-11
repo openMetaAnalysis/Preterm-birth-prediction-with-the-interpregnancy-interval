@@ -16,8 +16,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively
-/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
