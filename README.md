@@ -1,7 +1,7 @@
 # Passive leg raising for predicting fluid-responsiveness
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical test  *is* effective in diagnosis.
+**Clinical summary:** This meta-analysis suggests that all clinical tests *are* are more accurate than chance in diagnosis.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -16,7 +16,8 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Passive-leg-raising-for-predicting-fluid-responsiveness/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively
+/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
@@ -31,6 +32,8 @@ References:
 3. Marik PE, Levitov A, Young A, Andrews L. The use of bioreactance and carotid Doppler to determine volume responsiveness and blood flow redistribution following passive leg raising in hemodynamically unstable patients. Chest. 2013 Feb 1;143(2):364-70. PMID: [22910834](http://pubmed.gov/22910834).
 4. Monge García MI, Gil Cano A, Gracia Romero M, Monterroso Pintado R, Pérez Madueño V, Díaz Monrové JC. Non-invasive assessment of fluid responsiveness by changes in partial end-tidal CO2 pressure during a passive leg-raising maneuver.  Ann Intensive Care. 2012 Mar 26;2:9. doi: 10.1186/2110-5820-2-9. PMID: [22449292](http://pubmed.gov/22449292); PubMed Central PMCID: PMC3327636.
 5. Benomar B, Ouattara A, Estagnasie P, Brusset A, Squara P. Fluid responsiveness predicted by noninvasive bioreactance-based passive leg raise test. Intensive Care Med. 2010 Nov;36(11):1875-81. doi: 10.1007/s00134-010-1990-6. PMID: [20665001](http://pubmed.gov/20665001).
+6. Lanspa MJ, Brown SM, Hirshberg EL, Jones JP, Grissom CK. Central venous pressure and shock index predict lack of hemodynamic response to volume expansion in septic shock: a prospective, observational study. J Crit Care. 2012 Dec;27(6):609-15. doi: 10.1016/j.jcrc.2012.07.021.  PMID: [23084132](http://pubmed.gov/23084132); PMCID: PMC3621131.
+7. Michard F, Ruscio L, Teboul JL. Clinical prediction of fluid responsiveness in acute circulatory failure related to sepsis. Intensive Care Med. 2001 Jul;27(7):1238.  PMID: [11534577](http://pubmed.gov/11534577)
 
 #### New study(s) undergoing review
 None
