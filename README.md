@@ -4,7 +4,7 @@ A data-only living systematic review
 **Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis.
 
 Method	| Sensitiity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
-| -------------------------- |:--:|:--:|:-----:|:--|:--:|
+| -------------------------- |:--:|:--:|:-----:|:--:|:--:|
 Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
 Proportional pulse pressure  | 62 | 50 | 0.917 | 81 | 40
 Shock index	                 | 81 | 54 | 0.791 | 64 | 26
