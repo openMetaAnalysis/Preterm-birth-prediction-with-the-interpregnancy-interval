@@ -6,7 +6,7 @@ A data-only living systematic review
 Method	| Sensitiity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
 Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
-Proportional pulse pressure  | 62 | 50 | 0.917 | 81 | 40
+Proportional pulse pressure  | 62 | 65 | 0.817 | 81 | 40
 Shock index	                 | 81 | 54 | 0.791 | 64 | 26
 Central venous pressure (static)*    |   |   | 0.56  |   |  
 * PMID: [20111858,23774337](http://pubmed.gov/20111858,23774337)
