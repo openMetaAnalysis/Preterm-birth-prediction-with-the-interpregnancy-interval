@@ -4,7 +4,7 @@ A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Measurement of fluid responsiveness is associated with insigniciant reduction in mortality according to randomized controlled trials.
 
-Method	| Sensitiity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
+Method	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
 Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
 Proportional pulse pressure  | 62 | 85 | 0.817 | 81 | 40
