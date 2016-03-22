@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis.
+**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Measurement of fluid responsiveness is associated with insigniciant reduction in mortality according to randomized controlled trials.
 
 Method	| Sensitiity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
@@ -26,7 +26,9 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
 
 References:
 ----------------------------------
