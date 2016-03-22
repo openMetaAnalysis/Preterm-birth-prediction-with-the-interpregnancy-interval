@@ -21,7 +21,8 @@ This repository is a limited review and contains outcomes data only without PICO
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 **Results:** Details of the studies included are in the:
-* Risk of bias tables (pending)
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
@@ -29,6 +30,8 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 ![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+
+![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
