@@ -27,13 +27,13 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
 
 
-![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessed-noninvasively/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Metaregression](https://raw.githubusercontent.com/openMetaAnalysis/Fluid-responsiveness-assessment-for-managing-septic-shock/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
