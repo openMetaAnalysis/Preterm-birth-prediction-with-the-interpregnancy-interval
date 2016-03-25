@@ -1,4 +1,4 @@
-# Passive leg-raising for predicting fluid-responsiveness
+# Fluid-responsiveness assessment for managing septic shock
 
 A living systematic review
 
