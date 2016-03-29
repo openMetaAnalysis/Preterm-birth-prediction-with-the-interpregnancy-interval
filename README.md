@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Measurement of fluid responsiveness is associated with insigniciant reduction in mortality according to randomized controlled trials.
+**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Measurement of fluid responsiveness is associated with insigniciant reduction in mortality according to randomized controlled trials. Assessment of fluid responsiveness to guide the treatment of septic shock is not proven to reduce mortality. Patients at risk of fluid overload (Kuan, PMID [26475246](http://pubmed.gov/26475246)) or in settings with high mortality (Richards, PMID:[25572383](http://pubmed.gov/25572383)) may benefit from systematic monitoring. The assessment of diagnostic accuracy was limited by studies’ inclusion of patients who were being monitored for reasons other than sepsis. The assessment of efficacy was limited by two trials of bioreactance (725 patients planned for enrollment) that were registered but not reported ([NCT01484106](https://clinicaltrials.gov/ct2/show/NCT01484106); [NCT01128413](https://clinicaltrials.gov/ct2/show/NCT01128413)).
 
 Method	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
@@ -10,7 +10,7 @@ Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
 Proportional pulse pressure  | 62 | 85 | 0.817 | 81 | 40
 Shock index	                 | 81 | 54 | 0.791 | 64 | 26
 Central venous pressure (static)*    |   |   | 0.56  |   |  
-* PMID: [20111858,23774337](http://pubmed.gov/20111858,23774337)
+\* PMID: [20111858,23774337](http://pubmed.gov/20111858,23774337)
 
 [Keep current with this topic](Keep-up.md)
 
@@ -55,6 +55,7 @@ References:
 1. Kuan WS, Ibrahim I, Leong BS, Jain S, Lu Q, Cheung YB, Mahadevan M. Emergency Department Management of Sepsis Patients: A Randomized, Goal-Oriented, Noninvasive Sepsis Trial. Ann Emerg Med. 2016 Mar;67(3):367-378.e3. doi:
 [10.1016/j.annemergmed.2015.09.010](http://dx.doi.org/10.1016/j.annemergmed.2015.09.010). PMID: [26475246](http://pubmed.gov/26475246).
 2. Richard JC, Bayle F, Bourdin G, Leray V, Debord S, Delannoy B, et al. Preload dependence indices to titrate volume expansion during septic shock: a randomized controlled trial. Crit Care. 2015. PMID: [25572383](http://pubmed.gov/25572383); PMCID: [PMC4310180](pubmedcentral.gov/PMC4310180).
+3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
 None
