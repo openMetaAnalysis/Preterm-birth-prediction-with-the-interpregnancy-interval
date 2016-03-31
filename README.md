@@ -24,6 +24,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+* [Reconcliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
