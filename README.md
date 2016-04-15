@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Assessment of fluid responsiveness to guide the treatment of septic shock *is not* proven to reduce mortality. Assessment of fluid responsiveness to guide the treatment of septic shock is not proven to reduce mortality. Patients at risk of fluid overload (Kuan, PMID [26475246](http://pubmed.gov/26475246)) or in settings with high mortality (Richards, PMID:[25572383](http://pubmed.gov/25572383)) may benefit from systematic monitoring. The assessment of diagnostic accuracy was limited by studies’ inclusion of patients who were being monitored for reasons other than sepsis. The assessment of efficacy was limited by two trials of bioreactance (725 patients planned for enrollment) that were registered but not reported ([NCT01484106](https://clinicaltrials.gov/ct2/show/NCT01484106); [NCT01128413](https://clinicaltrials.gov/ct2/show/NCT01128413)).
+**Clinical summary:** This meta-analysis suggests that all clinical tests *are* more accurate than chance in diagnosis. Assessment of fluid responsiveness to guide the treatment of septic shock *is not* proven to reduce mortality. Benefit from assessment of fluid responsiveness to guide the treatment of septic shock is "reasonable suspicion", but a “preponderance of the evidence” is not present according to the judicial analogies of Diamond (PMID [17679700](http://pubmed.gov/17679700)). Patients at risk of fluid overload (Kuan, PMID [26475246](http://pubmed.gov/26475246)) or in settings with high mortality (Richards, PMID:[25572383](http://pubmed.gov/25572383)) may benefit from systematic monitoring. The assessment of diagnostic accuracy was limited by studies’ inclusion of patients who were being monitored for reasons other than sepsis. The assessment of efficacy was limited by two trials of bioreactance (725 patients planned for enrollment) that were registered but not reported ([NCT01484106](https://clinicaltrials.gov/ct2/show/NCT01484106); [NCT01128413](https://clinicaltrials.gov/ct2/show/NCT01128413)).
 
 Method	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
@@ -59,7 +59,7 @@ References:
 3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
-None
+1. Liu X, Ji W, Wang J, Pan T. Application strategy of PiCCO in septic shock patients. Exp Ther Med. 2016 Apr;11(4):1335-1339. doi: [10.3892/etm.2016.3040](http://dx.doi.org/10.3892/etm.2016.3040) PMID: [27073445](http://pubmed.gov/27073445)
 
 #### New study(s) *excluded* 
 None
