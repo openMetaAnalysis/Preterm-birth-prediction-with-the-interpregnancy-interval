@@ -59,7 +59,9 @@ References:
 3. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370(18):1683-93. PMID: [24635773](http://pubmed.gov/24635773).
 
 #### New study(s) undergoing review
-1. Liu X, Ji W, Wang J, Pan T. Application strategy of PiCCO in septic shock patients. Exp Ther Med. 2016 Apr;11(4):1335-1339. doi: [10.3892/etm.2016.3040](http://dx.doi.org/10.3892/etm.2016.3040) PMID: [27073445](http://pubmed.gov/27073445)
+1. Liu X, Ji W, Wang J, Pan T. Application strategy of PiCCO in septic shock patients. Exp Ther Med. 2016 Apr;11(4):1335-1339. doi: [10.3892/etm.2016.3040](http://dx.doi.org/10.3892/etm.2016.3040) PMID: [27073445](http://pubmed.gov/27073445) <i>Enrolled 50 patients four outcome of compliance with EGDT process measures.</i>
+2. Holthaus C. Emergency Department (ED) Flow-directed Fluid Optimization Resuscitation Trial (EFFORT). [NCT01128413](https://clinicaltrials.gov/ct2/show/NCT01128413) <i>Planned enrollment 125 for outcome of lactate clearance, but protocol at ClinicalTrials.gov revised in 2016 revised to 22.</i>
+3. Shapiro N. Cardiac Output Monitoring Managing Intravenous Therapy (COMMIT) to Treat Emergency Department Severe Sepsis (COMMIT). [NCT01484106](https://clinicaltrials.gov/ct2/show/NCT01484106). <i>Planned enrollment 600 for outcome of SOFA score increases by ≥1 point,  but protocol at ClinicalTrials.gov revised in 2016 revised to 65 patients.</i>
 
 #### New study(s) *excluded* 
 None
