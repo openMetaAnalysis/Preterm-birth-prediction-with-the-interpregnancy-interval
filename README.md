@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that progesterone *is* effective at reducing neonatal mortality and has insignificant reductin in in preterm birth (< 34 weeks). 
+**Clinical summary:** This meta-analysis suggests that progesterone *is* effective at reducing neonatal mortality and preterm birth (< 34 weeks). 
 [Keep current with this topic](Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
@@ -31,6 +31,7 @@ References:
 
 ### Randomized controlled trials that are more recent
 1. Norman JE, Marlow N, Messow CM, Shennan A, Bennett PR, Thornton S, Robson SC, McConnachie A, Petrou S, Sebire NJ, Lavender T, Whyte S, Norrie J; OPPTIMUM study group.. Vaginal progesterone prophylaxis for preterm birth (the OPPTIMUM study): a multicentre, randomised, double-blind trial. Lancet. 2016 May 21;387(10033):2106-16. doi: [10.1016/S0140-6736(16)00350-0](http://dx.doi.org/10.1016/S0140-6736(16)00350-0). PMID: [26921136](http://pubmed.gov/26921136)
+2. Azargoon A, Ghorbani R, Aslebahar F. Vaginal progesterone on the prevention of preterm birth and neonatal complications in high risk women: A randomized placebo-controlled double-blind study. Int J Reprod Biomed (Yazd). 2016 May;14(5):309-16. PMID: [27326415](http://pubmed.gov/27326415); PMCID: [PMC4910039](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910039/)
 
 #### New study(s) undergoing review
 None
