@@ -1,9 +1,0 @@
-Study,  Year,PMID,    TP,FP,FN,TN, Cofactor,
-Benomar,2010,20665001,13,1,7,17, >=10%,
-Marik,  2013,22910834,17,0,1,16, >=10%,
-Duus,   2015,25262530,52,14,12,22, >=10%,
-Tong,   2015,25907844,,,,,,
-,,,,,,,,To make forest plot:
-,,,,,,,,Click 'Raw' view of this file
-,,,,,,,,Copy rows of data without column names
-,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io
