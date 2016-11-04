@@ -17,10 +17,11 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-delivery-prevention-with-progesterone
-/master/forest-plots/Outcome-Primary-Trials.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-delivery-prevention-with-progesterone/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-delivery-prevention-with-progesterone/master/forest-plots/Outcome-Perinatal.png "Principle results for benefit]")
 
 References:
 ----------------------------------
