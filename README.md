@@ -2,7 +2,8 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that progesterone *is* effective at reducing neonatal mortality and preterm birth (< 34 weeks). 
+**Clinical summary:** This meta-analysis suggests that intramuscular progesterone *is* effective at reducing neonatal mortality and preterm birth (< 34 weeks). 
+
 [Keep current with this topic](Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
