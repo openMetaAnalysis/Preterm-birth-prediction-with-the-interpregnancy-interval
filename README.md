@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *may be* effective at reducing mortality. 
+**Clinical summary:** This meta-analysis suggests that low dose corticosteroids in patients with septic shock who are hypotensive despite pressors *may be* effective at reducing mortality. While the Cochrane Collaboration (citation below) found significant benefit in the subgroup of patients iwht septic shock, the Cochrane used Mantel-Haenszel fixed estimator. This method may be too optimistic because the heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57%. In this setting the Knapp-Hartung estimator may be better.(PMID: [24727843](https://pubmed.gov/24727843) )
 
 [Keep current with this topic](Keep-up.md)
 
