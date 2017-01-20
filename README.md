@@ -16,11 +16,16 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+* [Meta-regressions](../../tree/master/metaregression) ([source data](../../tree/master/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Corticosteroids-for-sepsis/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+
+The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
+
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Corticosteroids-for-sepsis/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
