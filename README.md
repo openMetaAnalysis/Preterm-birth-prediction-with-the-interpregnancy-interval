@@ -33,12 +33,12 @@ References:
 ####Most recent review(s) at time of last revision of this repository
 1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a
 narrative review. Ann Intensive Care. 2013 May 28;3:14. doi:
-10.1186/2110-5820-3-14. Review. PubMed PMID: (23714376)[http://pubmed.gov/23714376];
+10.1186/2110-5820-3-14. Review. PubMed PMID: [23714376](http://pubmed.gov/23714376);
 
 ### Controlled study(s) that are more recent
 1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
 Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
-Oct;158(4):1083-7; PMID: (26164619)[http://pubmed.gov/26164619].
+Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619).
 
 #### Newer controlled study(s) undergoing review
 None
