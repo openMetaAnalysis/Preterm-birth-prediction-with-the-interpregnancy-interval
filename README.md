@@ -6,7 +6,7 @@ A living systematic review
 
 [Keep current with this topic](Keep-up.md)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
@@ -31,10 +31,14 @@ References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
-None available.
+1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a
+narrative review. Ann Intensive Care. 2013 May 28;3:14. doi:
+10.1186/2110-5820-3-14. Review. PubMed PMID: (23714376)[http://pubmed.gov/23714376];
 
 ### Controlled study(s) that are more recent
-
+1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
+Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
+Oct;158(4):1083-7; PMID: (26164619)[http://pubmed.gov/26164619].
 
 #### Newer controlled study(s) undergoing review
 None
