@@ -33,10 +33,10 @@ References:
 ####Most recent review(s) at time of last revision of this repository
 None available.
 
-### Randomized controlled trials that are more recent
+### Controlled study(s) that are more recent
 
 
-#### New study(s) undergoing review
+#### Newer controlled study(s) undergoing review
 None
 
 #### New study(s) *excluded* 
