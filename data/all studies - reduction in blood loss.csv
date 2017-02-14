@@ -1,0 +1,11 @@
+Study,Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total, Cofactor1,Cofactor2,.
+Foulke,        1989,  2791592,168(18),70,        316(81), 81, 'Reported SD', 'Small volume tubes',
+Sanchez-Giron, 2008, 19061290,3.7(14.59),246, 13.5(3.41),227, 'Estimated SD','Small volume tubes',
+Dolman,        2015, 26164619,174(182),116,     299(355),132, 'Reported SD', 'Small volume tubes',
+Riessen,       2015, 26421920,15.0(2.53), 50, 43.3(6.70), 41, 'Estimated SD','Bundle of interventions',
+Mukhopadhyay,  2010, 20105285, 'Closed blood conservation device',
+,,,,,,,,,
+,,,,,,,To make forest plot:,,
+,,,,,,,Click 'Raw' view of this file,,
+,,,,,,,Copy rows of data without column names,,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,,

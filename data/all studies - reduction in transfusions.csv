@@ -1,0 +1,8 @@
+Study,Year,PMID,experimental_result(SD),experimental_total,control_result(SD),control_total, Cofactor1,Cofactor2,.
+Dolman,        2015, 26164619,4.4(3.6),116,     6.0(8,2),132, 'Reported SD', 'Small volume tubes',
+Mukhopadhyay,  2010, 20105285, 0.256 170, 180, 'Estimated SD',  'Closed blood conservation devices
+,,,,,,,,,
+,,,,,,,To make forest plot:,,
+,,,,,,,Click 'Raw' view of this file,,
+,,,,,,,Copy rows of data without column names,,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,,
