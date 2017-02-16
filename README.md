@@ -57,6 +57,9 @@ Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect 
 The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430).
 10. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. 
 Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
+11. Fowler RA, Berenson M.
+Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470). 
+
 
 #### Newer controlled study(s) undergoing review
 None
