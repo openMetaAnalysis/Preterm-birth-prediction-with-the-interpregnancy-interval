@@ -39,6 +39,8 @@ narrative review. Ann Intensive Care. 2013 May 28;3:14. doi:
 1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
 Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
 Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619).
+2. Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo Dde O, Ribeiro Neto MC, Setoyama TA.
+Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693). 
 
 #### Newer controlled study(s) undergoing review
 None
