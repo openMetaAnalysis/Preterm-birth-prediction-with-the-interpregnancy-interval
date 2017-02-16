@@ -40,7 +40,23 @@ narrative review. Ann Intensive Care. 2013 May 28;3:14. doi:
 Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
 Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619).
 2. Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo Dde O, Ribeiro Neto MC, Setoyama TA.
-Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693). 
+Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693).
+3. MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF.
+The influence of a blood conserving device on anemia in intensive care patients. Anesthesia Intensive Care. 2003 Dec;31(6):653-7. PMID: [14719427](http://pubmed.gov/14719427).
+4. Tarpey J, Lawler PG. 
+Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936). 
+5. Riessen R, Behmenburg M, Blumenstock G, Guenon D, Enkel S, Schäfer R, Haap M. 
+A Simple "Blood-Saving Bundle" Reduces Diagnostic Blood Loss and the Transfusion Rate in Mechanically Ventilated Patients. PLoS One. 2015 Sep 30;10(9). PMID: [26421920](http://pubmed.gov/26421920) 
+6. Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P.
+Evaluation of a blood conservation strategy in the intensive care unit: a prospective, randomized study. Middle East J Anesthesiology. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069). 
+7. Lyon AW, Chin AC, Slotsve GA, Lyon ME.
+Simulation of repetitive diagnostic blood loss and onset of iatrogenic anemia in critical care patients with a mathematical model. Comput Biol Med. 2013 Feb;43(2):84-90. PMID: [23228481](http://pubmed.gov/23228481).
+8. Smoller BR, Kruskall MS. 
+Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).
+9. Thorpe S, Thomas AN.
+The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430).
+10. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. 
+Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
 
 #### Newer controlled study(s) undergoing review
 None
