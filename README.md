@@ -76,6 +76,8 @@ Reduction of blood loss from laboratory testing in hospitalized adult patients u
 Highly conservative phlebotomy in adult intensive care--a prospective randomized controlled trial. Anaesth Intensive Care. 2006 Aug;34(4):434-7. PMID: [16913337](http://pubmed.gov/16913337).
 17. Gleason E, Grossman S, Campbell C.
 Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883)
+18. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M.
+A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
 
 #### Newer controlled study(s) undergoing review
 None
