@@ -1,0 +1,2 @@
+Study,Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total, Cofactor1,Cofactor2,.
+Mahdy,         2009, 19583069, 0.79(0.6), 20, 1.30(1.13), 19, 'Reported SD', 
