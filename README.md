@@ -1,8 +1,8 @@
-# Conservative phlebotomy for reducing blood transfusions
+# Preterm-birth prediction with the interpregnancy-interval
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that conservative phlebotomy *pending* effective at reducing transufusions due to iatrogenic anemia. The heterogenteity as measured by I2 was '[pending](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at xx%.
+**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval is *pending* at predicting preterm birt. The heterogenteity as measured by I2 is '[pending](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at xx%.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -21,63 +21,24 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Conservative-phlebotomy-for-reducing-blood-transfusions/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Conservative-phlebotomy-for-reducing-blood-transfusions/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
-1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a
-narrative review. Ann Intensive Care. 2013 May 28;3:14. doi: 10.1186/2110-5820-3-14. Review. PMID: [23714376](http://pubmed.gov/23714376);
-2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. 
-Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).
-3. Corwin HL, Gettinger A, Pearl RG, Fink MP, Levy MM, Abraham E, MacIntyre NR, Shabot MM, Duh MS, Shapiro MJ.
-The CRIT Study: Anemia and blood transfusion in the critically ill--current clinical practice in the United States. Crit Care Med. 2004 Jan;32(1):39-52. PMID: [14707558](http://pubmed.gov/14707558).
-4. Tinmouth AT, McIntyre LA, Fowler RA.
-Blood conservation strategies to reduce the need for red blood cell transfusion in critically ill patients. CMAJ. 2008 Jan 1;178(1):49-57. doi: 10.1503/cmaj.071298. PMID: [18166731](http://pubmed.gov/18166731)
+1. Conde-Agudelo A, Rosas-Bermúdez A, Kafury-Goeta AC. Birth spacing and risk of adverse perinatal outcomes: a meta-analysis. JAMA. 2006 Apr 19;295(15):1809-23. PMID: [16622143](http://pubmed.gov/16622143)
 
-### Controlled study(s) that are more recent
-1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
-Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
-Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619)
-2. Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo Dde O, Ribeiro Neto MC, Setoyama TA.
-Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693)
-3. MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF.
-The influence of a blood conserving device on anemia in intensive care patients. Anesthesia Intensive Care. 2003 Dec;31(6):653-7. PMID: [14719427](http://pubmed.gov/14719427)
-4. Tarpey J, Lawler PG. 
-Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936)
-5. Riessen R, Behmenburg M, Blumenstock G, Guenon D, Enkel S, Schäfer R, Haap M. 
-A Simple "Blood-Saving Bundle" Reduces Diagnostic Blood Loss and the Transfusion Rate in Mechanically Ventilated Patients. PLoS One. 2015 Sep 30;10(9). PMID: [26421920](http://pubmed.gov/26421920) 
-6. Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P.
-Evaluation of a blood conservation strategy in the intensive care unit: a prospective, randomized study. Middle East J Anesthesiology. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069)
-7. Lyon AW, Chin AC, Slotsve GA, Lyon ME.
-Simulation of repetitive diagnostic blood loss and onset of iatrogenic anemia in critical care patients with a mathematical model. Comput Biol Med. 2013 Feb;43(2):84-90. PMID: [23228481](http://pubmed.gov/23228481)
-8. Smoller BR, Kruskall MS. 
-Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919)
-9. Thorpe S, Thomas AN.
-The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430)
-10. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. 
-Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327)
-11. Fowler RA, Berenson M.
-Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470)
-12. Chant C, Wilson G, Friedrich JO. 
-Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795)
-13. Mukhopadhyay A, Yip HS, Prabhuswamy D, Chan YH, Phua J, Lim TK, Leong P.
-The use of a blood conservation device to reduce red blood cell transfusion requirements: a before and after study. Crit Care. 2010;14(1):R7. doi: 10.1186/cc8859. PMID: [20105285](http://pubmed.gov/20105285)
-14. Sanchez-Giron F, Alvarez-Mora F.
-Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).
-15. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G.
-[Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).
-16. Harber CR, Sosnowski KJ, Hegde RM.
-Highly conservative phlebotomy in adult intensive care--a prospective randomized controlled trial. Anaesth Intensive Care. 2006 Aug;34(4):434-7. PMID: [16913337](http://pubmed.gov/16913337).
-17. Gleason E, Grossman S, Campbell C.
-Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883)
-18. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M.
-A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
+### Study(s) that are more recent
+1. Hanley GE, Hutcheon JA, Kinniburgh BA, Lee L. Interpregnancy Interval and Adverse Pregnancy Outcomes: An Analysis of Successive Pregnancies. Obstet Gynecol. 2017 Feb 6. PMID: [28178044](http://pubmed.gov/28178044)
+2. Shachar BZ, Mayo JA, Lyell DJ, Baer RJ, Jeliffe-Pawlowski LL, Stevenson DK,
+Shaw GM. Interpregnancy interval after live birth or pregnancy termination and estimated risk of preterm birth: a retrospective cohort study. BJOG. 2016 Nov;123(12):2009-2017. doi: 10.1111/1471-0528.14165. PMID: [27405702](http://pubmed.gov/27405702)
+3. Ball SJ, Pereira G, Jacoby P, de Klerk N, Stanley FJ. Re-evaluation of link between interpregnancy interval and adverse birth outcomes: retrospective cohort study matching two intervals per mother. BMJ. 2014 Jul 23;349:g4333. doi: 10.1136/bmj.g4333. PMID: [25056260](http://pubmed.gov/25056260)
+
 
 #### Newer controlled study(s) undergoing review
 None
