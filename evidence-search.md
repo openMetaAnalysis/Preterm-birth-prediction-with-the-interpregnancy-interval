@@ -1,11 +1,14 @@
 #Evidence search
+## Reconciliation tables
+* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/)
+
 ##PubMed
 ###Boolean term searching
 surprise\* AND question AND (mortality OR death OR died)
 * 25 articles (reviewed 7/17/2016)
 
 ###Related citations searching
-* Pending
+* Seed articles: pending
 
 ##Cited reference searching
 
