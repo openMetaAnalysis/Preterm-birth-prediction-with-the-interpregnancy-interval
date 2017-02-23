@@ -35,8 +35,12 @@ References:
 ### Study(s) that are more recent
 1. Hanley GE, Hutcheon JA, Kinniburgh BA, Lee L. Interpregnancy Interval and Adverse Pregnancy Outcomes: An Analysis of Successive Pregnancies. Obstet Gynecol. 2017 Feb 6. PMID: [28178044](http://pubmed.gov/28178044)
 2. Shachar BZ, Mayo JA, Lyell DJ, Baer RJ, Jeliffe-Pawlowski LL, Stevenson DK, Shaw GM. Interpregnancy interval after live birth or pregnancy termination and estimated risk of preterm birth: a retrospective cohort study. BJOG. 2016 Nov;123(12):2009-2017. doi: 10.1111/1471-0528.14165. PMID: [27405702](http://pubmed.gov/27405702)
-3. Ball SJ, Pereira G, Jacoby P, de Klerk N, Stanley FJ. Re-evaluation of link between interpregnancy interval and adverse birth outcomes: retrospective cohort study matching two intervals per mother. BMJ. 2014 Jul 23;349:g4333. doi: 10.1136/bmj.g4333. PMID: [25056260](http://pubmed.gov/25056260)
-4. Howard EJ, Harville E, Kissinger P, Xiong X. The association between short interpregnancy interval and preterm birth in Louisiana: a comparison of methods.  Matern Child Health J. 2013 Jul;17(5):933-9. doi: 10.1007/s10995-012-1073-0. PMID: [22791206](http://pubmed.gov/22791206)
+3. Koullali B, Kamphuis EI, Hof MH, Robertson SA, Pajkrt E, de Groot CJ, Mol BW, 
+Ravelli AC. The Effect of Interpregnancy Interval on the Recurrence Rate of Spontaneous Preterm Birth: A Retrospective Cohort Study. Am J Perinatol. 2017 Jan;34(2):174-182. doi: 10.1055/s-0036-1584896. PMID: [27367283](http://pubmed.gov/27367283)
+4. Ball SJ, Pereira G, Jacoby P, de Klerk N, Stanley FJ. Re-evaluation of link between interpregnancy interval and adverse birth outcomes: retrospective cohort study matching two intervals per mother. BMJ. 2014 Jul 23;349:g4333. doi: 10.1136/bmj.g4333. PMID: [25056260](http://pubmed.gov/25056260)
+5. Kozuki N, Walker N. Exploring the association between short/long preceding
+birth intervals and child mortality: using reference birth interval children of the same mother as comparison. BMC Public Health. 2013;13 Suppl 3:S6. doi: 10.1186/1471-2458-13-S3-S6. PMID: [24564713](http://pubmed.gov/24564713)
+6. Howard EJ, Harville E, Kissinger P, Xiong X. The association between short interpregnancy interval and preterm birth in Louisiana: a comparison of methods.  Matern Child Health J. 2013 Jul;17(5):933-9. doi: 10.1007/s10995-012-1073-0. PMID: [22791206](http://pubmed.gov/22791206)
 
 
 #### Newer controlled study(s) undergoing review
