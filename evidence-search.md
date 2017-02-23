@@ -3,24 +3,24 @@
 * Cohort studies that measure association between rates of pre-term birth and the interpregnancy interval using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
 
 ## Reconciliation tables
-* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/)
+* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/) (Not applicable to this review as propensity and conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
 
 ##PubMed
 ###Boolean term searching
-surprise\* AND question AND (mortality OR death OR died)
-* 25 articles (search results reviewed 7/17/2016)
+[Preterm AND interval AND (propensity OR matched OR conditional)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=preterm%20AND%20interval%20AND%20%28propensity%20OR%20matched%20OR%20conditional%29)
+* Retrieves all [five articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D) (100% sensitivity)
+* 331 articles (search results reviewed 2/x/2017; x new articles included)
 
-###Related citations searching
-* Seed articles: pending (search results reviewed 2/x/2017)
+###Vector searching ('Related citations' search)
+* [Seed articles (5)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D): pending (search results reviewed 2/x/2017)
 
 ##Cited reference searching
 
-###Identifying seminal studies that are the most highly cited
-- Pattison. J Palliat Med. 2001 PMID: 11441634. First conceptualization of the question. Cited by 34
-- Murray. BMJ. 2002 PMID: 12399341  Early conceptualization of the question. Cited by 467
-- Barnes. Chronic Illn. 2008 PMID: 18322025 First quantitative assessment of the surprise question.  Cited by 15
-- Moss. Clin J Am Soc Nephrol. 2008 PMID: 18596118 First labeling of the question in the title/abstract of a quantitative study. Cited by 148
+###Identifying seminal studies that are the most highly cited at Google Scholar
+- Howard, 2013 PMID [22791206](https://pubmed.gov/22791206) - 9 citations
+- Ball, 2014 PMID [25056260](https://pubmed.gov/25056260) - 22 citations
+- Conde-Agudelo, 2006 PMID [16622143](https://pubmed.gov/16622143)
 
-###Searching 'surprised' within the highly citing studies using Google Scholar (7/17/2016)
-- Murray. [52 articles](https://scholar.google.com/scholar?q=surprised&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=13471818729840465845&scipsc=1) (no additional articles)
-- Moss.  [100 articles](https://scholar.google.com/scholar?q=surprised&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=14324371999406552138&scipsc=1) (no additional articles)
+###Searching within the highly citing studies using Google Scholar (7/17/2016)
+- Conde-Agudelo. [142 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
+- Ball.  [8 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (x new articles included)
