@@ -1,6 +1,6 @@
 #Evidence search
 ##Inclusion criteria
-* nonrandomized studies that report changes in hemoglobin, blood loss, or tranfusion rate
+* Cohort studies that measure association between rates of pre-term birth and the interpregnancy interval using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
 
 ## Reconciliation tables
 * [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/)
