@@ -3,7 +3,7 @@
 * Cohort studies that measure association between rates of pre-term birth and the interpregnancy interval using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
 
 ## Reconciliation tables
-* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/) (Not applicable to this review as propensity and conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
+* [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/) (Not applicable to this review as propensity and conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
 
 ##PubMed
 ###Boolean term searching
