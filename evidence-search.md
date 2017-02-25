@@ -7,9 +7,9 @@
 
 ##PubMed
 ###Boolean term searching
-[Preterm AND interval AND (propensity OR matched OR conditional)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=preterm%20AND%20interval%20AND%20%28propensity%20OR%20matched%20OR%20conditional%29)
+[Preterm AND interval AND (propensity OR matched OR conditional OR case-crossover)](https://www.ncbi.nlm.nih.gov/pubmed/?term=preterm+AND+interval+AND+(propensity+OR+matched+OR+conditional+OR+case-crossover))
 * Retrieves all [five articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D) (100% sensitivity)
-* 331 articles (search results reviewed 2/x/2017; x new articles included)
+* 335 articles (search results reviewed 2/x/2017; x new articles included)
 
 ###Vector searching ('Related citations' search)
 * [Seed articles (5)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D): pending (search results reviewed 2/x/2017)
