@@ -21,7 +21,8 @@
 - Ball, 2014 PMID [25056260](https://pubmed.gov/25056260) - 22 citations
 - Conde-Agudelo, 2006 PMID [16622143](https://pubmed.gov/16622143)
 
-###Searching within the highly citing studies using Google Scholar (7/17/2016)
+###Searching with"in the highly citing studies using Google Scholar (7/17/2016)
+Searching for "propensity OR matched OR conditional OR maternally-linked OR case-crossover"
  - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (x new articles included)
  - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
  - Ball.  [8 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (x new articles included)
