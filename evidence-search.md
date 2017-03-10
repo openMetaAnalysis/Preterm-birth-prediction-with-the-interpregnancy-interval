@@ -1,6 +1,6 @@
 #Evidence search
 ##Inclusion criteria
-* Cohort studies that measure association between rates of pre-term birth and the interpregnancy interval using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
+* Cohort studies that measure association between interpregnancy interval and rates of pre-term birth, or low birth-weight, or infant mortality using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
 
 ## Reconciliation tables
 * [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/) (Not applicable to this review as propensity and conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
@@ -9,7 +9,7 @@
 ###Boolean term searching
 [(preterm OR "low birth weight" OR mortality) AND ("interpregnancy interval" OR "birth interval") AND ("maternally linked" OR propensity OR matched OR conditional OR case-crossover)](https://www.ncbi.nlm.nih.gov/pubmed/?term=(preterm+OR+%22low+birth+weight%22+OR+mortality)+AND+(%22interpregnancy+interval%22+OR+%22birth+interval%22)+AND+(%22maternally+linked%22+OR+propensity+OR+matched+OR+conditional+OR+case-crossover))
 * Retrieves all [six articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D) (100% sensitivity)
-* 32 articles (search results reviewed 3/6/2017; 4 new articles included)
+* 32 articles (search results reviewed 3/6/2017; 4? new articles included - see issue 1)
 
 ###Vector searching ('Related citations' search)
 * [Seed articles (6)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=24564713%5BPMID%5D+OR+28178044%5BPMID%5D+OR+27367283%5BPMID%5D+OR+27405702%5BPMID%5D+OR+25056260%5BPMID%5D+OR+22791206%5BPMID%5D): Complete (search results reviewed 3/6/2017)
@@ -22,8 +22,9 @@
 - Conde-Agudelo, 2006 PMID [16622143](https://pubmed.gov/16622143)
 
 ###Searching within the highly citing studies using Google Scholar (7/17/2016)
-- Conde-Agudelo. [142 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
-- Ball.  [8 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (x new articles included)
+ - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (x new articles included)
+ - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
+ - Ball.  [8 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (x new articles included)
 
 #Additional articles to consider from Boolean
 - Mahande MJ, Obure J. Effect of interpregnancy interval on adverse pregnancy outcomes in northern Tanzania: a registry-based retrospective cohort study. BMC Pregnancy Childbirth. 2016 Jun 7;16(1):140. doi: 10.1186/s12884-016-0929-5. PubMed PMID: 27268015; PubMed Central PMCID: PMC4897820. (https://pubmed.gov/27268015)
