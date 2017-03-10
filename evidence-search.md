@@ -17,14 +17,15 @@
 ##Cited reference searching
 
 ###Identifying seminal studies that are the most highly cited at Google Scholar
-- Howard, 2013 PMID [22791206](https://pubmed.gov/22791206) - 9 citations
+- Conde-Agudelo, 2006 PMID [16622143](https://pubmed.gov/16622143) - 574 citations
+- Zhu, 2003 PMID [14509412] (https://pubmed.gov/14509412) - 51 citations
 - Ball, 2014 PMID [25056260](https://pubmed.gov/25056260) - 22 citations
-- Conde-Agudelo, 2006 PMID [16622143](https://pubmed.gov/16622143)
+- Howard, 2013 PMID [22791206](https://pubmed.gov/22791206) - 9 citations
 
 ###Searching with"in the highly citing studies using Google Scholar (7/17/2016)
 Searching for "propensity OR matched OR conditional OR maternally-linked OR case-crossover"
+ - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
  - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (x new articles included)
- - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
  - Ball.  [8 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (x new articles included)
 
 #Additional articles to consider from Boolean
