@@ -1,5 +1,5 @@
 #Risk of bias table
-
+([switch to PICO table](pico-table.md))
 ##Prognostic factor studies
 
 Based on [QUIP](http://methods.cochrane.org/sites/methods.cochrane.org.prognosis/files/public/uploads/QUIPS%20tool.pdf) (PMID [23420236](https://pubmed.gov/23420236)).
