@@ -2,6 +2,5 @@
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
-| Richard    |[25572383](http://pubmed.gov/25572383) |Adults with mean arterial pressure < 65 mm Hg before(?) fluids | Protocol based on PICCO | Usual care | Mortality at 28 days|
-| Kuan       |[26475246](http://pubmed.gov/26475246) |Adults with lactate level >= 3 mmol/L                          | Protocol based on NICOM | Usual care |Mortality at 28 days|
-| ProCESS    |[24635773](http://pubmed.gov/24635773) |Adults with lactate level >= 5 mmol/L or systolic pressure < 90 mm Hg after 1000 ml fluid challenge| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Ball, 2014    |[25056260](https://pubmed.gov/25056260) |40,441 mothers in Perth who each delivered three liveborn singleton neonates | Preterm interval < 18 or > 23 months | Preterm interval of 18-23 months | • Preterm birth (< 37 weeks)<br> • Low birth weight (<2500 g)|
+
