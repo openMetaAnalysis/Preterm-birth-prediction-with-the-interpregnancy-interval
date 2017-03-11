@@ -9,7 +9,7 @@
 ###Boolean term searching
 [(preterm OR "low birth weight" OR mortality) AND ("interpregnancy interval" OR "birth interval") AND ("maternally linked" OR propensity OR matched OR conditional OR case-crossover)](https://www.ncbi.nlm.nih.gov/pubmed/?term=(preterm+OR+%22low+birth+weight%22+OR+mortality)+AND+(%22interpregnancy+interval%22+OR+%22birth+interval%22)+AND+(%22maternally+linked%22+OR+propensity+OR+matched+OR+conditional+OR+case-crossover))
 * Retrieves all [six articles in hand](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=24564713%5BPMID%5D%20OR%2028178044%5BPMID%5D%20OR%20%2027367283%5BPMID%5D%20OR%2027405702%5BPMID%5D%20OR%2025056260%5BPMID%5D%20OR%2022791206%5BPMID%5D) (100% sensitivity)
-* 32 articles (search results reviewed 3/6/2017; 4? new articles included - see issue 1)
+* 32 articles (search results reviewed 3/6/2017; 4? new articles included - see [issue 1](https://github.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/issues/2))
 
 ###Vector searching ('Related citations' search)
 * [Seed articles (6)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=24564713%5BPMID%5D+OR+28178044%5BPMID%5D+OR+27367283%5BPMID%5D+OR+27405702%5BPMID%5D+OR+25056260%5BPMID%5D+OR+22791206%5BPMID%5D): Complete (search results reviewed 3/6/2017)
