@@ -25,8 +25,8 @@
 ###Searching with"in the highly citing studies using Google Scholar (7/17/2016)
 Searching for "propensity OR matched OR conditional OR maternally-linked OR case-crossover"
  - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
- - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (x new articles included)
- - Ball.  [13 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+case-crossover+OR+maternally-linked&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1)
+ - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
+ - Ball.  [13 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+case-crossover+OR+maternally-linked&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
 
 #Additional articles to consider from Boolean
 - Mahande MJ, Obure J. Effect of interpregnancy interval on adverse pregnancy outcomes in northern Tanzania: a registry-based retrospective cohort study. BMC Pregnancy Childbirth. 2016 Jun 7;16(1):140. doi: 10.1186/s12884-016-0929-5. PubMed PMID: 27268015; PubMed Central PMCID: PMC4897820. (https://pubmed.gov/27268015)
