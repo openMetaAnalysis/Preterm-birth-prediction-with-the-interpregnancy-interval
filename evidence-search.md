@@ -27,14 +27,17 @@ Searching for "propensity OR matched OR conditional OR maternally-linked OR case
  - Conde-Agudelo. [170 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
  - Zhu. [45 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+maternally-linked+OR+case-crossover&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=11333649539158563365&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
  - Ball.  [13 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional+OR+case-crossover+OR+maternally-linked&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=10764913834475512844&scipsc=1) (search results reviewed 3/10/2017; 0 new articles included)
+ 
+##ClinicalTrials.gov
+Searched (preterm OR "low birth weight" OR mortality) AND ("interpregnancy interval" OR "birth interval") AND ("maternally linked" OR propensity OR matched OR conditional OR case-crossover) - [0 citations](https://clinicaltrials.gov/ct2/results?term=%28preterm+OR+%22low+birth+weight%22+OR+mortality%29+AND+%28%22interpregnancy+interval%22+OR+%22birth+interval%22%29+AND+%28%22maternally+linked%22+OR+propensity+OR+matched+OR+conditional+OR+case-crossover%29&Search=Search)
 
 #Additional articles to consider from Boolean
-- Mahande MJ, Obure J. Effect of interpregnancy interval on adverse pregnancy outcomes in northern Tanzania: a registry-based retrospective cohort study. BMC Pregnancy Childbirth. 2016 Jun 7;16(1):140. doi: 10.1186/s12884-016-0929-5. PubMed PMID: 27268015; PubMed Central PMCID: PMC4897820. (https://pubmed.gov/27268015)
-  - “We also used robust variance estimation to take into account for repeated observations or correlation between siblings of the same biological mother”
-- Zhu BP, Le T. Effect of interpregnancy interval on infant low birth weight: a retrospective cohort study using the Michigan Maternally Linked Birth Database. Matern Child Health J. 2003 Sep;7(3):169-78. PubMed PMID: 14509412. (https://pubmed.gov/14509412)
-	- “We fit separate logistic regression models for pairs of first-second, second-third, third-fourth, and fourth-fifth births to control for confounding.”
-  - Also consider for adding to highly cited seminal studies (51 citations)
-- Dube L, Taha M, Asefa H. Determinants of infant mortality in community of Gilgel Gibe Field Research Center, Southwest Ethiopia: a matched case control study. BMC Public Health. 2013 Apr 27;13:401. doi: 10.1186/1471-2458-13-401. PubMed PMID: 23621915; PubMed Central PMCID: PMC3644261. (https://pubmed.gov/23621915)
-	- “Conditional logistic regression method was used to identify determinant factors of infant mortality.”
-- Yigzaw M, Enquselassie F. Birth spacing and risk of child mortality at Kalu district South Wollo Zone of Amhara region, Ethiopia. Ethiop Med J. 2010 Apr; 48(2):105-15. PubMed PMID: 20608014. (https://pubmed.gov/20608014)
-	- “Conditional logistic regression was performed to determine the independent effect of birth spacing under-five mortality.”
+Determinations made 3/10/2017
+- Dube L, Taha M, Asefa H. Determinants of infant mortality in community of Gilgel Gibe Field Research Center, Southwest Ethiopia: a matched case control study. BMC Public Health. 2013 PMID: [23621915] (https://pubmed.gov/23621915)
+  - We could not isolate the effect of prior interpregnancy interval
+- Mahande MJ, Obure J. Effect of interpregnancy interval on adverse pregnancy outcomes in northern Tanzania: a registry-based retrospective cohort study. BMC Pregnancy Childbirth. 2016 PMID: [27268015](https://pubmed.gov/27268015)
+  - The authors used multiple logistic regression versus conditional or matched
+- Yigzaw M, Enquselassie F. Birth spacing and risk of child mortality at Kalu district South Wollo Zone of Amhara region, Ethiopia. Ethiop Med J. 2010 PMID: [20608014](https://pubmed.gov/20608014)
+  - Assessment pending as paper not in hand.
+- Zhu BP, Le T. Effect of interpregnancy interval on infant low birth weight: a retrospective cohort study using the Michigan Maternally Linked Birth Database. Matern Child Health J. 2003 PMID: [14509412](https://pubmed.gov/14509412)
+  -  Include
