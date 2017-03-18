@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval is *pending* at predicting preterm birt. The heterogenteity as measured by I2 is '[pending](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at xx%.
+**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval, when analyzed with a matched, conditional logistic regression analysis, does *not* at predict preterm birth. The heterogenteity, as measured by I2, for each strata is '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 89% to 93%.
 
 [Keep current with this topic](Keep-up.md)
 
