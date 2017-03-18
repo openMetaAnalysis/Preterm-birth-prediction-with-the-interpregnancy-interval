@@ -2,7 +2,9 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval, when analyzed with a matched, conditional logistic regression analysis, *does predict* preterm birth when the preceding birth interval is less than 6 months. The heterogenteity, as measured by I2, for each strata is '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 89% to 93%.
+**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval, when analyzed with a matched, conditional logistic regression analysis, *does not predict* preterm birth. The heterogenteity, as measured by I2, for each strata is '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 89% to 93%.
+
+Analyses of the effect of the interpregnancy-interval on low birth weight and mortality are pending.
 
 [Keep current with this topic](Keep-up.md)
 
