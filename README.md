@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval, when analyzed with a matched, conditional logistic regression analysis, does *not* at predict preterm birth. The heterogenteity, as measured by I2, for each strata is '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 89% to 93%.
+**Clinical summary:** This meta-analysis suggests that the interpregnancy-interval, when analyzed with a matched, conditional logistic regression analysis, *does predict* preterm birth when the preceding birth interval is less than 6 months. The heterogenteity, as measured by I2, for each strata is '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 89% to 93%.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -41,13 +41,13 @@ Ravelli AC. The Effect of Interpregnancy Interval on the Recurrence Rate of Spon
 5. Kozuki N, Walker N. Exploring the association between short/long preceding
 birth intervals and child mortality: using reference birth interval children of the same mother as comparison. BMC Public Health. 2013;13 Suppl 3:S6. doi: 10.1186/1471-2458-13-S3-S6. PMID: [24564713](http://pubmed.gov/24564713)
 6. Howard EJ, Harville E, Kissinger P, Xiong X. The association between short interpregnancy interval and preterm birth in Louisiana: a comparison of methods.  Matern Child Health J. 2013 Jul;17(5):933-9. doi: 10.1007/s10995-012-1073-0. PMID: [22791206](http://pubmed.gov/22791206)
-
+7. Zhu BP, Le T. Effect of interpregnancy interval on infant low birth weight: a retrospective cohort study using the Michigan Maternally Linked Birth Database. Matern Child Health J. 2003 Sep;7(3):169-78.  PMID: [14509412](https://pubmed.gov/14509412)
 
 #### Newer controlled study(s) undergoing review
 None
 
 #### New study(s) *excluded* 
-None
+1. Dube L, Taha M, Asefa H. Determinants of infant mortality in community of Gilgel Gibe Field Research Center, Southwest Ethiopia: a matched case control study. BMC Public Health. 2013 PMID: [23621915](https://pubmed.gov/23621915). *We could not isolate the effect of prior interpregnancy interval*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
