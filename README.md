@@ -24,10 +24,6 @@ The forest plot for the primary outcomes are below. Additional [forest plots](..
 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
-
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
-
 References:
 ----------------------------------
 ### Systematic review(s)
