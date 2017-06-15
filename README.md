@@ -44,6 +44,7 @@ None
 
 #### New study(s) *excluded* 
 1. Dube L, Taha M, Asefa H. Determinants of infant mortality in community of Gilgel Gibe Field Research Center, Southwest Ethiopia: a matched case control study. BMC Public Health. 2013 PMID: [23621915](https://pubmed.gov/23621915). *We could not isolate the effect of prior interpregnancy interval*
+2. Yigzaw M, Enquselassie F. Birth spacing and risk of child mortality at Kalu district South Wollo Zone of Amhara region, Ethiopia. Ethiop Med J. 2010 PMID: [20608014](https://pubmed.gov/20608014) *Only reported mortality*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
