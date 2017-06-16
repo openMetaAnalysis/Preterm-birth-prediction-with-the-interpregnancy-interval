@@ -1,9 +1,9 @@
 # Evidence search
 ## Inclusion criteria
-* Cohort studies that measure association between interpregnancy interval and rates of pre-term birth, or low birth-weight, or infant mortality using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression) or [propensity score analysis](Propensity score matching)
+* Cohort studies that measure association between interpregnancy interval and rates of pre-term birth using conditional[ logistic regression analysis](https://en.wikipedia.org/wiki/Conditional_logistic_regression)
 
 ## Reconciliation tables
-* [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/) (Not applicable to this review as propensity and conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
+* [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/) Not applicable to this review as conditional logistic regression searching not done prior to the Conde-Agudelo 2006 review.
 
 ## PubMed
 ### Boolean term searching
@@ -14,7 +14,7 @@
 ### Vector searching ('Related citations' search)
 * [Seed articles (4)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D+OR+27367283%5BPMID%5D+OR+27405702%5BPMID%5D+OR+25056260%5BPMID%5D) 
 * [417 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247)
-* 0 citations when above limited to [(preterm OR "low birth weight" OR mortality)]
+* 0 citations when above limited to `preterm OR "low birth weight" OR mortality`
   * NA additional articles found
   
 ## Cited reference searching
