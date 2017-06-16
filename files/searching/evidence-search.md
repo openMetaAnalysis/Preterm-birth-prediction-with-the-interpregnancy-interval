@@ -12,11 +12,11 @@
 * 32 articles (search results reviewed 3/6/2017; No additional articles included - see [issue 1](https://github.com/openMetaAnalysis/Preterm-birth-prediction-with-the-interpregnancy-interval/issues/2))
 
 ### Vector searching ('Related citations' search)
-* [Seed articles (6)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=24564713%5BPMID%5D+OR+28178044%5BPMID%5D+OR+27367283%5BPMID%5D+OR+27405702%5BPMID%5D+OR+25056260%5BPMID%5D+OR+22791206%5BPMID%5D) (4/16/2017 - consider dropping Kozuki and Howard from this)
-- Hanley, 2017 PMID [28178044](https://pubmed.gov/28178044): 103 articles (search reviewed 3/7/2017; 0 new articles)
-- Schachar, 2016 PMID [27405702](https://pubmed.gov/237505702): 203 articles (search reviewed 3/7/2017; 0 new articles included)
-- Koullali, 2016 PMID [27367283](https://pubmed.gov/27367283): 100 articles (search results reviewed 3/6/2017; 0 new articles included)
-
+* [Seed articles (4)](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&term=28178044%5BPMID%5D+OR+27367283%5BPMID%5D+OR+27405702%5BPMID%5D+OR+25056260%5BPMID%5D) 
+* [417 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247)
+* 0 citations when above limited to [(preterm OR "low birth weight" OR mortality)]
+  * NA additional articles found
+  
 ## Cited reference searching
 
 ### Identifying seminal studies that are the most highly cited at Google Scholar
