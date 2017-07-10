@@ -13,10 +13,11 @@ Analyses of the effect of the interpregnancy-interval on low birth weight and mo
 * [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
-* [Risk of bias assessment](../master/files/study-details/table-bias.pdf) (under construction)
-* [Forest plots](../master/files/forest-plots) ([source data](../master/files/data)) (under construction)
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
+* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Description of studies (PICO table)](files/study-details/table-pico.pdf)
+* [Risk of bias assessment](files/study-details/table-bias.pdf)
+* [Forest plots](../master/files/forest-plots) ([source data](files/data))
+* [Reconciliation of conclusions with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 
